@@ -83,7 +83,7 @@
   "dependencies": {
     "@testing-library/user-event": "^14.3.0",
     "classnames": "^2.2.5",
-    "enquire.js": "github:DetailsOfWar/enquire.js",
+    "enquire.js": "git+https://github.com/DetailsOfWar/enquire.js.git",
     "json2mq": "^0.2.0",
     "lodash.debounce": "^4.0.8",
     "resize-observer-polyfill": "^1.5.0"
